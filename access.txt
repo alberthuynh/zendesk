@@ -1,1 +1,0 @@
-{"username":"<ZendeskUsername>", "apikey":"<API_Key>", "searchstring":"ie solved<2016-12-31"}
